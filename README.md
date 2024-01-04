@@ -1,9 +1,9 @@
-#=====================================Introduction=========================================#
+#=====================Introduction===============#
 
 The thesis aims to model recall-based data, recognizing that the probability of recall decreases as the time between monitoring and the event increases. 
 It proposes a mathematical model based on the functional form of recall probability as a function of elapsed time.
 
-#======================================Summary of Chapters==================================#
+#===================Summary of Chapters===========#
 
 Chapter 1 covers concepts related to time-to-event data, competing risks, and computational techniques for estimation. 
 Chapter 2 focuses on parametric models for recall-based data, utilizing the Weibull distribution for time to event. 
